@@ -17,12 +17,12 @@ const studentImages = PlaceHolderImages.filter(
 
 export const students: Student[] = [
   {
-    name: "KRISHNA YADAV JI",
+    name: "KRISHNA YADAV ",
     rollNo: "23001311043",
     dob: "24/04/2005",
     avatar:
       studentImages.find((img) => img.id === "student-1")?.imageUrl ||
-      "https://photos.app.goo.gl/ZKxzyDiHDkiuwQK16",
+      "https://photos.app.goo.gl/ZKxzyDiHDkiuwQK16/1/200/200",
     results: [
       {
         semester: 1,

@@ -13,7 +13,7 @@ export default function Home() {
         <div className="container mx-auto flex items-center justify-between">
           <div className="flex items-center gap-3">
             <BookOpenCheck className="h-8 w-8" />
-            <h1 className="text-xl sm:text-2xl font-bold font-headline">BCA Result Portal</h1>
+            <h1 className="text-xl sm:text-2xl font-bold font-headline">BCA 2ND YEAR RESULT PORTAL (2024-2025)</h1>
           </div>
         </div>
       </header>

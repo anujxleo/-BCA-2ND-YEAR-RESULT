@@ -43,6 +43,32 @@ export const students: Student[] = [
     ],
   },
   {
+    name: "KUNAL YADAV",
+    rollNo: "23001311045",
+    dob: "27/03/2004",
+    avatar:
+      studentImages.find((img) => img.id === "student-9")?.imageUrl ||
+      "https://picsum.photos/seed/9/200/200",
+    results: [
+      {
+        semester: 1,
+        url: "https://vbspuresult.org.in/Home/ViewStudentResult?Year=I&ENROL_NO=PU23/100343&ID=995529",
+      },
+      {
+        semester: 2,
+        url: "https://vbspuresult.org.in/Home/ViewStudentResult?Year=II&ENROL_NO=PU23/100343&ID=7597382",
+      },
+      {
+        semester: 3,
+        url: "https://vbspuresult.org.in/Home/ViewStudentResultNew?Year=III&ENROL_NO=23001311045&ID=1937",
+      },
+      {
+        semester: 4,
+        url: "https://vbspuresult.org.in/Home/ViewStudentResultNew?Year=IV&ENROL_NO=23001311045&ID=176129",
+      },
+    ],
+  },
+  {
     name: "KRISHNA YADAV ",
     rollNo: "23001311043",
     dob: "24/04/2005",
@@ -222,32 +248,6 @@ export const students: Student[] = [
       {
         semester: 4,
         url: "https://vbspuresult.org.in/Home/ViewStudentResultNew?Year=IV&ENROL_NO=23001311040&ID=176188",
-      },
-    ],
-  },
-  {
-    name: "KUNAL YADAV",
-    rollNo: "23001311045",
-    dob: "27/03/2004",
-    avatar:
-      studentImages.find((img) => img.id === "student-9")?.imageUrl ||
-      "https://picsum.photos/seed/9/200/200",
-    results: [
-      {
-        semester: 1,
-        url: "https://vbspuresult.org.in/Home/ViewStudentResult?Year=I&ENROL_NO=PU23/100343&ID=995529",
-      },
-      {
-        semester: 2,
-        url: "https://vbspuresult.org.in/Home/ViewStudentResult?Year=II&ENROL_NO=PU23/100343&ID=7597382",
-      },
-      {
-        semester: 3,
-        url: "https://vbspuresult.org.in/Home/ViewStudentResultNew?Year=III&ENROL_NO=23001311045&ID=1937",
-      },
-      {
-        semester: 4,
-        url: "https://vbspuresult.org.in/Home/ViewStudentResultNew?Year=IV&ENROL_NO=23001311045&ID=176129",
       },
     ],
   },

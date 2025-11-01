@@ -22,7 +22,7 @@ export const students: Student[] = [
     dob: "24/04/2005",
     avatar:
       studentImages.find((img) => img.id === "student-1")?.imageUrl ||
-      "https://photos.app.goo.gl/ZKxzyDiHDkiuwQK16/1/200/200",
+      "https://photos.app.goo.gl/ZKxzyDiHDkiuwQK16",
     results: [
       {
         semester: 1,

@@ -17,6 +17,32 @@ const studentImages = PlaceHolderImages.filter(
 
 export const students: Student[] = [
   {
+    name: "GAURAV YADAV",
+    rollNo: "23001311033",
+    dob: "03/04/2005",
+    avatar:
+      studentImages.find((img) => img.id === "student-6")?.imageUrl ||
+      "https://picsum.photos/seed/6/200/200",
+    results: [
+      {
+        semester: 1,
+        url: "https://vbspuresult.org.in/Home/ViewStudentResult?Year=I&ENROL_NO=PU23/100331&ID=995517",
+      },
+      {
+        semester: 2,
+        url: "https://vbspuresult.org.in/Home/ViewStudentResult?Year=II&ENROL_NO=PU23/100331&ID=7597370",
+      },
+      {
+        semester: 3,
+        url: "https://vbspuresult.org.in/Home/ViewStudentResultNew?Year=III&ENROL_NO=23001311033&ID=1940",
+      },
+      {
+        semester: 4,
+        url: "https://vbspuresult.org.in/Home/ViewStudentResultNew?Year=IV&ENROL_NO=23001311033&ID=176076",
+      },
+    ],
+  },
+  {
     name: "KRISHNA YADAV ",
     rollNo: "23001311043",
     dob: "24/04/2005",
@@ -146,32 +172,7 @@ export const students: Student[] = [
       },
     ],
   },
-  {
-    name: "GAURAV YADAV",
-    rollNo: "23001311033",
-    dob: "03/04/2005",
-    avatar:
-      studentImages.find((img) => img.id === "student-6")?.imageUrl ||
-      "https://picsum.photos/seed/6/200/200",
-    results: [
-      {
-        semester: 1,
-        url: "https://vbspuresult.org.in/Home/ViewStudentResult?Year=I&ENROL_NO=PU23/100331&ID=995517",
-      },
-      {
-        semester: 2,
-        url: "https://vbspuresult.org.in/Home/ViewStudentResult?Year=II&ENROL_NO=PU23/100331&ID=7597370",
-      },
-      {
-        semester: 3,
-        url: "https://vbspuresult.org.in/Home/ViewStudentResultNew?Year=III&ENROL_NO=23001311033&ID=1940",
-      },
-      {
-        semester: 4,
-        url: "https://vbspuresult.org.in/Home/ViewStudentResultNew?Year=IV&ENROL_NO=23001311033&ID=176076",
-      },
-    ],
-  },
+
   {
     name: "HARSH SONI",
     rollNo: "23001311035",

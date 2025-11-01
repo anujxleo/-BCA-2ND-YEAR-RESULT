@@ -9,49 +9,49 @@
     {
       "id": "student-2",
       "description": "Portrait of Kishan Yadav",
-      "imageUrl": "https://images.unsplash.com/photo-1617615857188-32f06ecc2089?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8c3R1ZGVudCUyMHBvcnRyYWl0fGVufDB8fHx8MTc2MTg4MzY1OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "/image/kishan.jpg",
       "imageHint": "student portrait"
     },
     {
       "id": "student-3",
       "description": "Portrait of Ankit Chauhan",
-      "imageUrl": "https://images.unsplash.com/photo-1621274790572-7c32596bc67f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxzdHVkZW50JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYxODgzNjU5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "/image/ankit.jpg",
       "imageHint": "student portrait"
     },
     {
       "id": "student-4",
       "description": "Portrait of Anshuman Asthana",
-      "imageUrl": "https://images.unsplash.com/photo-1617615857188-32f06ecc2089?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8c3R1ZGVudCUyMHBvcnRyYWl0fGVufDB8fHx8MTc2MTg4MzY1OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "/image/anshuman.jpg",
       "imageHint": "student portrait"
     },
     {
       "id": "student-5",
       "description": "Portrait of Anurag Yadav",
-      "imageUrl": "https://images.unsplash.com/photo-1517256673644-36ad11246d21?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzdHVkZW50JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYxODgzNjU5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "/image/anurag.jpg",
       "imageHint": "student portrait"
     },
     {
       "id": "student-6",
       "description": "Portrait of Gaurav Yadav",
-      "imageUrl": "https://images.unsplash.com/photo-1621274790572-7c32596bc67f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxzdHVkZW50JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYxODgzNjU5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "/image/gaurav.jpg",
       "imageHint": "student portrait"
     },
     {
       "id": "student-7",
       "description": "Portrait of Harsh Soni",
-      "imageUrl": "https://images.unsplash.com/photo-1617615857188-32f06ecc2089?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8c3R1ZGVudCUyMHBvcnRyYWl0fGVufDB8fHx8MTc2MTg4MzY1OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "/image/harsh.jpg",
       "imageHint": "student portrait"
     },
     {
       "id": "student-8",
       "description": "Portrait of Johnson Yadav",
-      "imageUrl": "https://images.unsplash.com/photo-1621274790572-7c32596bc67f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxzdHVkZW50JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYxODgzNjU5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "/image/jonshan.jpg",
       "imageHint": "student portrait"
     },
     {
       "id": "student-9",
       "description": "Portrait of Kunal Yadav",
-      "imageUrl": "https://images.unsplash.com/photo-1561065533-316e3142d586?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxzdHVkZW50JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYxODgzNjU5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "/image/kunal.jpg",
       "imageHint": "student portrait"
     }
   ]
